@@ -34,3 +34,8 @@ lst = [i*i for i in range(10)]
 print(lst)
 lst = [i*i for i in range(10) if i%2==0]
 print(lst)
+
+my_list1 = [1, 2, 3]
+my_list2 = [4, 5, 6]
+my_list3 = my_list1 + my_list2
+print(my_list3) 
