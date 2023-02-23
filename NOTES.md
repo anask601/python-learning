@@ -8,3 +8,7 @@ For true = 1.0 // float
 For false = 0.0 // float
 
 ![Screenshot](assets/img/numbers1.png)
+
+## stringOperations
+
+![Screenshot](assets/img/stringOperations.png)
